@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I am currently working on React bindings for Dear Imgui for WebAssembly. It's both an ambitious and challenging goal, also considering I started learning emscripten, C++, CMake and WebGPU from scratch.
+
+Any feedback you may have is most welcome.
+
+![stats widget]([Isolated.png](https://myreadme.vercel.app/api/embed/andreamancuso?panels=userstatistics,toprepositories,toplanguages,commitgraph) "My Stats")
+
+
+
 <!--
 **andreamancuso/andreamancuso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
