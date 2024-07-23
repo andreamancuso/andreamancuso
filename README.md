@@ -4,8 +4,7 @@ I am currently working on React bindings for Dear Imgui for WebAssembly. It's bo
 
 Any feedback you may have is most welcome.
 
-![stats widget]([Isolated.png](https://myreadme.vercel.app/api/embed/andreamancuso?panels=userstatistics,toprepositories,toplanguages,commitgraph) "My Stats")
-
+![Metrics](https://metrics.lecoq.io/andreamancuso?template=classic&base.header=0&gists=1&lines=1&config.timezone=Europe%2FRome)
 
 
 <!--
