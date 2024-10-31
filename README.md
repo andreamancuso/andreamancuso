@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am currently working on React bindings for Dear Imgui for WebAssembly. It's both an ambitious and challenging goal, also considering I started learning emscripten, C++, CMake and WebGPU from scratch.
+I am currently working on [xframes](https://github.com/andreamancuso/xframes), a library that facilitates the development of GPU-accelerated GUIs using React.
 
 Any feedback you may have is most welcome.
 
