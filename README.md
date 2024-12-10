@@ -12,6 +12,16 @@ Some of the technologies I use include:
 ![Scala badge](https://img.shields.io/badge/-Scala-E02023?logo=scala&logoColor=white&logoSize=25)
 ![Python badge](https://img.shields.io/badge/-Python-FEC007?logo=python&logoColor=0176BC&logoSize=25)
 ![.NET badge](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&logoSize=25)
+![OpenJDK badge](https://img.shields.io/badge/-Java-056378?logo=openjdk&logoColor=black)
+
 ![React badge](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=black&logoWidth=25)
+![Vue badge](https://img.shields.io/badge/-Vue.js-35495E?logo=vuedotjs&logoColor=41B883)
+![Angular badge](https://img.shields.io/badge/-Angular-C64638?logo=vuedotjs&logoColor=white)
+![Redux badge](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
+![ReactiveX badge](https://img.shields.io/badge/-ReactiveX-E60090?logo=reactivex&logoColor=white)
+![NgRx badge](https://img.shields.io/badge/-NgRx-4C2075?logo=reactivex&logoColor=white)
+
+![OpenGL badge](https://img.shields.io/badge/-OpenGL-5487B2?logo=opengl&logoColor=white)
+
 
 Badges generated with [Shields.IO](https://shields.io/badges)
