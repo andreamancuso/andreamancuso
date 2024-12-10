@@ -27,3 +27,5 @@ Some of the technologies I use include:
 ![Docker badge](https://img.shields.io/badge/-Docker-2597EE?logo=docker&logoColor=black)
 
 Badges generated with [Shields.IO](https://shields.io/badges)
+
+Icons supplied by [Simple Icons](https://simpleicons.org/)
