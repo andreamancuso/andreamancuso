@@ -7,6 +7,7 @@ Any feedback you may have is most welcome.
 Some of the technologies I use include:
 
 ![TypeScript badge](https://img.shields.io/badge/-TypeScript-3178c6?logo=typescript&logoColor=white&logoSize=25)
+![Node.js](https://img.shields.io/badge/-Node.js-80BD02?logo=nodedotjs&logoColor=black)
 ![C++ badge](https://img.shields.io/badge/-C++-0180CD?logo=cplusplus&logoColor=white&logoSize=25)
 ![Kotlin badge](https://img.shields.io/badge/-Kotlin-B521E8?logo=kotlin&logoColor=white&logoSize=25)
 ![Scala badge](https://img.shields.io/badge/-Scala-E02023?logo=scala&logoColor=white&logoSize=25)
@@ -21,7 +22,8 @@ Some of the technologies I use include:
 ![ReactiveX badge](https://img.shields.io/badge/-ReactiveX-E60090?logo=reactivex&logoColor=white)
 ![NgRx badge](https://img.shields.io/badge/-NgRx-4C2075?logo=reactivex&logoColor=white)
 
+![WebAssembly badge](https://img.shields.io/badge/-WebAssembly-654FF0?logo=webassembly&logoColor=white)
 ![OpenGL badge](https://img.shields.io/badge/-OpenGL-5487B2?logo=opengl&logoColor=white)
-
+![Docker badge](https://img.shields.io/badge/-Docker-2597EE?logo=docker&logoColor=black)
 
 Badges generated with [Shields.IO](https://shields.io/badges)
