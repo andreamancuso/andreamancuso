@@ -1,6 +1,15 @@
 ## Hi there 👋
 
-I am currently working on [xframes](https://github.com/xframes-project/xframes), a library that facilitates the development of GPU-accelerated GUIs.
+I am currently working on [xframes](https://github.com/xframes-project/xframes), a library that facilitates the development of GPU-accelerated GUIs. Available in:
+
+- WebAssembly
+- Node.js
+- [Python](https://github.com/xframes-project/xframes-python)
+- [Kotlin](https://github.com/xframes-project/xframes-kotlin)
+- [Java](https://github.com/xframes-project/xframes-java)
+- [Scala](https://github.com/xframes-project/xframes-scala)
+- [C#](https://github.com/xframes-project/xframes-csharp)
+- [F#](https://github.com/xframes-project/xframes-fsharp)
 
 Any feedback you may have is most welcome.
 
