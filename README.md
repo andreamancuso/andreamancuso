@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am currently working on [xframes](https://github.com/xframes-project/xframes), a library that facilitates the development of GPU-accelerated GUIs. Available on x64/arm64/riscv64 in:
+I am currently working on [XFrames](https://github.com/xframes-project/xframes), a library that facilitates the development of GPU-accelerated GUIs. Available for the following languages/platforms:
 
 - WebAssembly (Chromium, Firefox Nightly)
 - Node.js (x64/arm64/riscv64)
