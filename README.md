@@ -10,6 +10,11 @@ I am currently working on [xframes](https://github.com/xframes-project/xframes),
 - [Scala](https://github.com/xframes-project/xframes-scala) (x64)
 - [C#](https://github.com/xframes-project/xframes-csharp) (x64)
 - [F#](https://github.com/xframes-project/xframes-fsharp) (x64)
+- [D](https://github.com/xframes-project/xframes-dlang) (x64)
+- [Ada](https://github.com/xframes-project/xframes-ada) (x64)
+- [Lua](https://github.com/xframes-project/xframes-lua) (x64)
+- [OCaml](https://github.com/xframes-project/xframes-ada) (x64)
+- [Crystal](https://github.com/xframes-project/xframes-crystal) (x64)
 
 Any feedback you may have is most welcome.
 
@@ -24,6 +29,11 @@ Some of the technologies I use include:
 ![Scala badge](https://img.shields.io/badge/-Scala-E02023?logo=scala&logoColor=white&logoSize=25)
 ![OpenJDK badge](https://img.shields.io/badge/-Java-056378?logo=openjdk&logoColor=black)
 ![Python badge](https://img.shields.io/badge/-Python-FEC007?logo=python&logoColor=0176BC&logoSize=25)
+![OCaml badge](https://img.shields.io/badge/-OCaml-EC6813?logo=ocaml&logoColor=484444&logoSize=25)
+![Lua badge](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=FFFFFF&logoSize=25)
+![Cryrstal badge](https://img.shields.io/badge/-Crystal-000000?logo=crystal&logoColor=FFFFFF&logoSize=25)
+![D badge](https://img.shields.io/badge/-Dlang-B03931?logo=d&logoColor=FFFFFF&logoSize=25)
+
 
 ![React badge](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=black&logoWidth=25)
 ![Vue badge](https://img.shields.io/badge/-Vue.js-35495E?logo=vuedotjs&logoColor=41B883)
