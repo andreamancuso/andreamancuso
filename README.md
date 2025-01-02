@@ -17,6 +17,7 @@ I am currently working on [XFrames](https://github.com/xframes-project/xframes),
 - [Crystal](https://github.com/xframes-project/xframes-crystal) (x64)
 - [Fortran](https://github.com/xframes-project/xframes-fortran) (x64)
 - [Ruby](https://github.com/xframes-project/xframes-ruby) (x64)
+- [Nim](https://github.com/xframes-project/xframes-nim) (x64)
 
 Any feedback you may have is most welcome.
 
@@ -37,6 +38,7 @@ Some of the technologies I use include:
 ![D badge](https://img.shields.io/badge/-Dlang-B03931?logo=d&logoColor=FFFFFF&logoSize=25)
 ![Fortran badge](https://img.shields.io/badge/-Fortran-734F96?logo=fortran&logoColor=FFFFFF&logoSize=25)
 ![Ruby badge](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=FFFFFF&logoSize=25)
+![Nim badge](https://img.shields.io/badge/-Nim-1e202a?logo=nim&logoColor=FFE953&logoSize=25)
 
 ![React badge](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=black&logoWidth=25)
 ![Vue badge](https://img.shields.io/badge/-Vue.js-35495E?logo=vuedotjs&logoColor=41B883)
