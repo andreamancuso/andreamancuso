@@ -18,7 +18,10 @@ I am currently working on [XFrames](https://github.com/xframes-project/xframes),
 - [Fortran](https://github.com/xframes-project/xframes-fortran) (x64)
 - [Ruby](https://github.com/xframes-project/xframes-ruby) (x64)
 - [Nim](https://github.com/xframes-project/xframes-nim) (x64)
+- [Zig](https://github.com/xframes-project/xframes-zig) (x64)
 - [Racket](https://github.com/xframes-project/xframes-racket) (x64)
+- [Free Pascal](https://github.com/xframes-project/xframes-freepascal) (x64)
+- [Delphi](https://github.com/xframes-project/xframes-delphi) (x64)
 
 Any feedback you may have is most welcome.
 
