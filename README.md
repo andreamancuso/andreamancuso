@@ -47,7 +47,9 @@ Some of the technologies I use include:
 ![Ruby badge](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=FFFFFF&logoSize=25)
 ![Nim badge](https://img.shields.io/badge/-Nim-1e202a?logo=nim&logoColor=FFE953&logoSize=25)
 ![Racket badge](https://img.shields.io/badge/-Racket-9F1D20?logo=racket&logoColor=FFFFFF&logoSize=25)
-
+![Zig badge](https://img.shields.io/badge/-Zig-000000?logo=zig&logoColor=F7A41D&logoSize=25)
+![Swift badge](https://img.shields.io/badge/-Swift-F05138?logo=swift&logoColor=FFFFFF&logoSize=25)
+![Julia badge](https://img.shields.io/badge/-Julia-9558B2?logo=julia&logoColor=FFFFFF&logoSize=25)
 
 
 ![React badge](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=black&logoWidth=25)
