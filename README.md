@@ -1,32 +1,6 @@
 ## Hi there 👋
 
-I am currently working on [XFrames](https://github.com/xframes-project/xframes), a library that facilitates the development of GPU-accelerated GUIs. Available for the following languages/platforms:
-
-- WebAssembly (Chromium, Firefox Nightly)
-- Node.js (x64/arm64/riscv64)
-- [Python](https://github.com/xframes-project/xframes-python) (x64/arm64/riscv64)
-- [Julia](https://github.com/xframes-project/xframes-julia) (x64)
-- [Swift](https://github.com/xframes-project/xframes-swift) (x64)
-- [Gnu Step](https://github.com/xframes-project/xframes-gnustep-objective-c) (x64)
-- [Kotlin](https://github.com/xframes-project/xframes-kotlin) (x64)
-- [Java](https://github.com/xframes-project/xframes-java) (x64)
-- [Scala](https://github.com/xframes-project/xframes-scala) (x64)
-- [C#](https://github.com/xframes-project/xframes-csharp) (x64)
-- [F#](https://github.com/xframes-project/xframes-fsharp) (x64)
-- [D](https://github.com/xframes-project/xframes-dlang) (x64)
-- [Ada](https://github.com/xframes-project/xframes-ada) (x64)
-- [Lua](https://github.com/xframes-project/xframes-lua) (x64)
-- [OCaml](https://github.com/xframes-project/xframes-ada) (x64)
-- [Crystal](https://github.com/xframes-project/xframes-crystal) (x64)
-- [Fortran](https://github.com/xframes-project/xframes-fortran) (x64)
-- [Ruby](https://github.com/xframes-project/xframes-ruby) (x64)
-- [Nim](https://github.com/xframes-project/xframes-nim) (x64)
-- [Zig](https://github.com/xframes-project/xframes-zig) (x64)
-- [Racket](https://github.com/xframes-project/xframes-racket) (x64)
-- [Free Pascal](https://github.com/xframes-project/xframes-freepascal) (x64)
-- [Delphi](https://github.com/xframes-project/xframes-delphi) (x64)
-
-Any feedback you may have is most welcome.
+I am currently working on [XFrames](https://github.com/xframes-project/xframes), a library that facilitates the development of GPU-accelerated GUIs.
 
 Some of the technologies I use include:
 
@@ -62,6 +36,8 @@ Some of the technologies I use include:
 ![WebAssembly badge](https://img.shields.io/badge/-WebAssembly-654FF0?logo=webassembly&logoColor=white)
 ![OpenGL badge](https://img.shields.io/badge/-OpenGL-5487B2?logo=opengl&logoColor=white)
 ![Docker badge](https://img.shields.io/badge/-Docker-2597EE?logo=docker&logoColor=black)
+
+Personal website: https://andreamancuso.dev
 
 Badges generated with [Shields.IO](https://shields.io/badges)
 
