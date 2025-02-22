@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I am currently working on [XFrames](https://github.com/xframes-project/xframes), a library that facilitates the development of GPU-accelerated GUIs.
+I launched [beyond-tabs.com](https://beyond-tabs.com), a minimalistic job board focused on non-mainstream programming languages.
+
+I am the creator of on [XFrames](https://github.com/xframes-project/xframes), a library that facilitates the development of GPU-accelerated GUIs.
 
 Some of the technologies I use include:
 
@@ -15,7 +17,7 @@ Some of the technologies I use include:
 ![Python badge](https://img.shields.io/badge/-Python-FEC007?logo=python&logoColor=0176BC&logoSize=25)
 ![OCaml badge](https://img.shields.io/badge/-OCaml-EC6813?logo=ocaml&logoColor=484444&logoSize=25)
 ![Lua badge](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=FFFFFF&logoSize=25)
-![Cryrstal badge](https://img.shields.io/badge/-Crystal-000000?logo=crystal&logoColor=FFFFFF&logoSize=25)
+![Crystal badge](https://img.shields.io/badge/-Crystal-000000?logo=crystal&logoColor=FFFFFF&logoSize=25)
 ![D badge](https://img.shields.io/badge/-Dlang-B03931?logo=d&logoColor=FFFFFF&logoSize=25)
 ![Fortran badge](https://img.shields.io/badge/-Fortran-734F96?logo=fortran&logoColor=FFFFFF&logoSize=25)
 ![Ruby badge](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=FFFFFF&logoSize=25)
