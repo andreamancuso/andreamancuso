@@ -2,12 +2,13 @@
 
 I launched [beyond-tabs.com](https://beyond-tabs.com), a minimalistic job board focused on non-mainstream programming languages.
 
-I am the creator of on [XFrames](https://github.com/xframes-project/xframes), a library that facilitates the development of GPU-accelerated GUIs.
+I am the creator of [XFrames](https://github.com/xframes-project/xframes), a library that facilitates the development of GPU-accelerated GUIs.
 
 Some of the technologies I use include:
 
 ![TypeScript badge](https://img.shields.io/badge/-TypeScript-3178c6?logo=typescript&logoColor=white&logoSize=25)
 ![Node.js](https://img.shields.io/badge/-Node.js-80BD02?logo=nodedotjs&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-474a8a?logo=php&logoColor=white&logoSize=25)
 ![C++ badge](https://img.shields.io/badge/-C++-0180CD?logo=cplusplus&logoColor=white&logoSize=25)
 ![.NET badge](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white&logoSize=25)
 ![F# badge](https://img.shields.io/badge/-F%23-378BBA?logo=fsharp&logoColor=white)
