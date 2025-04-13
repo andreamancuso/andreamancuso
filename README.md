@@ -14,7 +14,9 @@ Some of the technologies I use include:
 ![F# badge](https://img.shields.io/badge/-F%23-378BBA?logo=fsharp&logoColor=white)
 ![Python badge](https://img.shields.io/badge/-Python-FEC007?logo=python&logoColor=0176BC&logoSize=25)
 ![OCaml badge](https://img.shields.io/badge/-OCaml-EC6813?logo=ocaml&logoColor=484444&logoSize=25)
+![Elixir badge](https://img.shields.io/badge/-Elixir-4B275F?logo=elixir&logoColor=white&logoSize=25)
 
+![Phoenix badge](https://img.shields.io/badge/-Phoenix-FD4F00?logo=phoenixframework&logoColor=white&logoWidth=25)
 ![React badge](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=black&logoWidth=25)
 ![Vue badge](https://img.shields.io/badge/-Vue.js-35495E?logo=vuedotjs&logoColor=41B883)
 ![Angular badge](https://img.shields.io/badge/-Angular-C64638?logo=vuedotjs&logoColor=white)
@@ -25,6 +27,7 @@ Some of the technologies I use include:
 ![WebAssembly badge](https://img.shields.io/badge/-WebAssembly-654FF0?logo=webassembly&logoColor=white)
 ![OpenGL badge](https://img.shields.io/badge/-OpenGL-5487B2?logo=opengl&logoColor=white)
 ![Docker badge](https://img.shields.io/badge/-Docker-2597EE?logo=docker&logoColor=black)
+![Ansible badge](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white)
 
 Personal website: https://andreamancuso.dev
 
