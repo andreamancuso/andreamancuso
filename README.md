@@ -1,8 +1,10 @@
 ## Hi there 👋
+I'm Andrea, the creator of RawPair, a self-hosted tool for sharing terminals and editing code in real time. Built with Elixir, Monaco, and `ttyd`, it's designed for developers who'd rather collaborate without handing their soul to the cloud.
 
-I launched [beyond-tabs.com](https://beyond-tabs.com), a minimalistic job board focused on non-mainstream programming languages.
+I also launched [beyond-tabs.com](https://beyond-tabs.com), a minimalistic job board for non-mainstream programming languages - because not everyone wants to write JavaScript for a living.
 
-I am the creator of [XFrames](https://github.com/xframes-project/xframes), a library that facilitates the development of GPU-accelerated GUIs.
+Past projects include XFrames, a GPU-accelerated GUI library for native desktop apps that don't want to be web apps.
+Currently exploring Design by Contract and building Rivar, a minimal language with native contract support - because tests are great, but correctness is better.
 
 Some of the technologies I use include:
 
