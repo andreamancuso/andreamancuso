@@ -3,8 +3,8 @@ I'm Andrea, the creator of RawPair, a self-hosted tool for sharing terminals and
 
 I also launched [beyond-tabs.com](https://beyond-tabs.com), a minimalistic job board for non-mainstream programming languages - because not everyone wants to write JavaScript for a living.
 
-Past projects include XFrames, a GPU-accelerated GUI library for native desktop apps that don't want to be web apps.
-Currently exploring Design by Contract and building Rivar, a minimal language with native contract support - because tests are great, but correctness is better.
+Past projects include [XFrames](https://xframes.dev), a GPU-accelerated GUI library for native desktop apps that don't want to be web apps.
+Currently exploring [Design by Contract](https://beyondtesting.dev) and building [Rivar](https://github.com/andreamancuso/rivar-lang), a minimal language with native contract support - because tests are great, but correctness is better.
 
 Some of the technologies I use include:
 
