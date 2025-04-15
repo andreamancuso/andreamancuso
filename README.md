@@ -1,12 +1,12 @@
 ## Hi there 👋
-I'm Andrea, the creator of [RawPair](https://github.com/rawpair/rawpair), a self-hosted tool for sharing terminals and editing code in real time. Built with Elixir, Monaco, and `ttyd`, it's designed for developers who'd rather collaborate without handing their soul to the cloud.
+I'm Andrea, the creator of [RawPair](https://github.com/rawpair/rawpair), a self-hosted tool for sharing terminals and editing code in real time. Built with Elixir, Monaco, and `ttyd`, it's designed for developers who'd rather collaborate _without handing their soul to the cloud_.
 
-I also launched [beyond-tabs.com](https://beyond-tabs.com), a minimalistic job board for non-mainstream programming languages - because not everyone wants to write JavaScript for a living.
+I also launched [beyond-tabs.com](https://beyond-tabs.com), a minimalistic job board for non-mainstream programming languages - because not everyone dreams in JavaScript.
 
-Past projects include [XFrames](https://xframes.dev), a GPU-accelerated GUI library for native desktop apps that don't want to be web apps.
+Past projects include [XFrames](https://xframes.dev), a GPU-accelerated GUI library for native desktop apps that don't want to pretend they're websites.
 Currently exploring [Design by Contract](https://beyondtesting.dev) and building [Rivar](https://github.com/andreamancuso/rivar-lang), a minimal language with native contract support - because tests are great, but correctness is better.
 
-Some of the technologies I use include:
+Tech I use regularly:
 
 ![TypeScript badge](https://img.shields.io/badge/-TypeScript-3178c6?logo=typescript&logoColor=white&logoSize=25)
 ![Node.js](https://img.shields.io/badge/-Node.js-80BD02?logo=nodedotjs&logoColor=black)
@@ -20,7 +20,6 @@ Some of the technologies I use include:
 
 ![Phoenix badge](https://img.shields.io/badge/-Phoenix-FD4F00?logo=phoenixframework&logoColor=white&logoWidth=25)
 ![React badge](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=black&logoWidth=25)
-![Vue badge](https://img.shields.io/badge/-Vue.js-35495E?logo=vuedotjs&logoColor=41B883)
 ![Angular badge](https://img.shields.io/badge/-Angular-C64638?logo=vuedotjs&logoColor=white)
 ![Redux badge](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
 ![ReactiveX badge](https://img.shields.io/badge/-ReactiveX-E60090?logo=reactivex&logoColor=white)
@@ -33,6 +32,4 @@ Some of the technologies I use include:
 
 Personal website: https://andreamancuso.dev
 
-Badges generated with [Shields.IO](https://shields.io/badges)
-
-Icons supplied by [Simple Icons](https://simpleicons.org/)
+> Badges generated with [Shields.IO](https://shields.io/badges) - Icons by [Simple Icons](https://simpleicons.org/)
