@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Andrea, the creator of RawPair, a self-hosted tool for sharing terminals and editing code in real time. Built with Elixir, Monaco, and `ttyd`, it's designed for developers who'd rather collaborate without handing their soul to the cloud.
+I'm Andrea, the creator of [RawPair](https://github.com/rawpair/rawpair), a self-hosted tool for sharing terminals and editing code in real time. Built with Elixir, Monaco, and `ttyd`, it's designed for developers who'd rather collaborate without handing their soul to the cloud.
 
 I also launched [beyond-tabs.com](https://beyond-tabs.com), a minimalistic job board for non-mainstream programming languages - because not everyone wants to write JavaScript for a living.
 
