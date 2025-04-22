@@ -17,6 +17,7 @@ Tech I use regularly:
 ![Python badge](https://img.shields.io/badge/-Python-FEC007?logo=python&logoColor=0176BC&logoSize=25)
 ![OCaml badge](https://img.shields.io/badge/-OCaml-EC6813?logo=ocaml&logoColor=484444&logoSize=25)
 ![Elixir badge](https://img.shields.io/badge/-Elixir-4B275F?logo=elixir&logoColor=white&logoSize=25)
+![Go badge](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&logoSize=25)
 
 ![Phoenix badge](https://img.shields.io/badge/-Phoenix-FD4F00?logo=phoenixframework&logoColor=white&logoWidth=25)
 ![React badge](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=black&logoWidth=25)
