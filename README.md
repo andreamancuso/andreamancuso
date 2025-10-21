@@ -6,6 +6,8 @@ I also launched [beyond-tabs.com](https://beyond-tabs.com), a minimalistic job b
 Past projects include [XFrames](https://xframes.dev), a GPU-accelerated GUI library for native desktop apps that don't want to pretend they're websites.
 Currently exploring [Design by Contract](https://beyondtesting.dev) and building [Rivar](https://github.com/andreamancuso/rivar-lang), a minimal language with native contract support - because tests are great, but correctness is better.
 
+I wrote on article on [how to run Rust, Go, Zig and other static binaries on a tight budget on shared hosting](https://dev.to/andreamancuso/running-rust-binaries-on-shared-hosting-a-practical-approach-to-type-safety-on-a-budget-jmb).
+
 Tech I use regularly:
 
 ![TypeScript badge](https://img.shields.io/badge/-TypeScript-3178c6?logo=typescript&logoColor=white&logoSize=25)
