@@ -1,10 +1,9 @@
 ## Hi there 👋
 I'm Andrea, the creator of [RawPair](https://github.com/rawpair/rawpair), a self-hosted tool for sharing terminals and editing code in real time. Built with Elixir, Monaco, and `ttyd`, it's designed for developers who'd rather collaborate _without handing their soul to the cloud_.
 
-I also launched [beyond-tabs.com](https://beyond-tabs.com), a minimalistic job board for non-mainstream programming languages - because not everyone dreams in JavaScript.
+I also launched [beyond-tabs.com](https://beyond-tabs.com), a minimalistic job board for non-mainstream programming languages - because not everyone dreams in JavaScript. I am currently busy rewriting the API layer in Rust.
 
 Past projects include [XFrames](https://xframes.dev), a GPU-accelerated GUI library for native desktop apps that don't want to pretend they're websites.
-Currently exploring [Design by Contract](https://beyondtesting.dev) and building [Rivar](https://github.com/andreamancuso/rivar-lang), a minimal language with native contract support - because tests are great, but correctness is better.
 
 I wrote on article on [how to run Rust, Go, Zig and other static binaries on a tight budget on shared hosting](https://dev.to/andreamancuso/running-rust-binaries-on-shared-hosting-a-practical-approach-to-type-safety-on-a-budget-jmb).
 
@@ -20,6 +19,7 @@ Tech I use regularly:
 ![OCaml badge](https://img.shields.io/badge/-OCaml-EC6813?logo=ocaml&logoColor=484444&logoSize=25)
 ![Elixir badge](https://img.shields.io/badge/-Elixir-4B275F?logo=elixir&logoColor=white&logoSize=25)
 ![Go badge](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&logoSize=25)
+![Rust badge](https://img.shields.io/badge/-Rust-D34516?logo=rust&logoColor=white&logoSize=25)
 
 ![Phoenix badge](https://img.shields.io/badge/-Phoenix-FD4F00?logo=phoenixframework&logoColor=white&logoWidth=25)
 ![React badge](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=black&logoWidth=25)
