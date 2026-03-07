@@ -1,9 +1,11 @@
 ## Hi there 👋
 I'm Andrea, the creator of [RawPair](https://github.com/rawpair/rawpair), a self-hosted tool for sharing terminals and editing code in real time. Built with Elixir, Monaco, and `ttyd`, it's designed for developers who'd rather collaborate _without handing their soul to the cloud_.
 
-I also launched [beyond-tabs.com](https://beyond-tabs.com), a minimalistic job board for non-mainstream programming languages - because not everyone dreams in JavaScript. I am currently busy rewriting the API layer in Rust.
+I also launched [beyond-tabs.com](https://beyond-tabs.com), a minimalistic job board for non-mainstream programming languages.
 
-Past projects include [XFrames](https://xframes.dev), a GPU-accelerated GUI library for native desktop apps that don't want to pretend they're websites.
+Past projects include [XFrames](https://xframes.dev), a GPU-accelerated GUI library for native desktop apps.
+
+I published [ubx-parser](https://github.com/andreamancuso/ubx-parser), a native Node.js addon for parsing u-blox UBX binary protocol messages (GNSS/GPS). Built with node-addon-api (N-API) and wraps the CommsChampion ecosystem for protocol definitions.
 
 I wrote on article on [how to run Rust, Go, Zig and other static binaries on a tight budget on shared hosting](https://dev.to/andreamancuso/running-rust-binaries-on-shared-hosting-a-practical-approach-to-type-safety-on-a-budget-jmb).
 
