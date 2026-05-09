@@ -8,6 +8,7 @@ I'm Andrea. I build things.
 - [XFrames](https://xframes.dev) — a GPU-accelerated GUI framework for native desktop apps, built on Dear ImGui.
 - [RawPair](https://github.com/rawpair/rawpair) — self-hosted terminal sharing and real-time collaborative editing. Elixir, Monaco, `ttyd`.
 - [JanetSharp](https://github.com/andreamancuso/Janet-CSharp) — a .NET bridge for embedding the [Janet](https://janet-lang.org/) language in C# applications. Full stdlib, bi-directional function calls, GC-safe interop via a C shim layer.
+- [ByteDist](https://github.com/andreamancuso/bytedist) - a generic, open-source binary payload toolkit for offline-capable web artifacts.
 - [osm-static-map-generator](https://github.com/andreamancuso/osm-static-map-generator) — generates static OpenStreetMap images by compositing raster tiles. Available as a Node.js native addon and a WebAssembly module.
 
 **Published:**
