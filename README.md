@@ -3,7 +3,7 @@
 I'm Andrea. I build things.
 
 **Active:**
-- [Guida](https://guida-app.dev/) — a Windows browser that AI can drive. Connects local and commercial LLMs via MCP to browse, click, extract, and automate. Every action requires approval, every tool call is audited, secrets never leave your machine. Scriptable in JavaScript or Lua.
+- [Guida](https://guida-app.dev/) — a Windows browser that AI can drive. Connects local and commercial LLMs via MCP to browse, click, extract, and automate. Every action requires approval, every tool call is audited, secrets never leave your machine. Scriptable in JavaScript, Lua, Janet.
 - [beyond-tabs.com](https://beyond-tabs.com) — a manually curated job board for non-mainstream programming languages (Ada, Haskell, Rust, Erlang, Zig and about 17 others). No algorithms. No noise.
 - [XFrames](https://xframes.dev) — a GPU-accelerated GUI framework for native desktop apps, built on Dear ImGui.
 - [RawPair](https://github.com/rawpair/rawpair) — self-hosted terminal sharing and real-time collaborative editing. Elixir, Monaco, `ttyd`.
